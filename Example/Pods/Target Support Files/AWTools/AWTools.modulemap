@@ -1,0 +1,6 @@
+framework module AWTools {
+  umbrella header "AWTools-umbrella.h"
+
+  export *
+  module * { export * }
+}

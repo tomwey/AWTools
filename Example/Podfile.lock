@@ -1,0 +1,24 @@
+PODS:
+  - AWTools (0.1.0)
+  - FBSnapshotTestCase (2.1.0):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.0)
+  - FBSnapshotTestCase/Core (2.1.0)
+  - FBSnapshotTestCase/SwiftSupport (2.1.0):
+    - FBSnapshotTestCase/Core
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - AWTools (from `../`)
+  - FBSnapshotTestCase
+  - Kiwi
+
+EXTERNAL SOURCES:
+  AWTools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AWTools: b3bbc391bb25dace281bb9f13c4e2c8c724004e1
+  FBSnapshotTestCase: 366ecd378511d7716c79991cd8067d1eed23578d
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+COCOAPODS: 0.38.2

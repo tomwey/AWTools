@@ -1,0 +1,19 @@
+{
+  "name": "AWTools",
+  "version": "0.1.0",
+  "summary": "A short description of AWTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AWTools",
+  "license": "MIT",
+  "authors": {
+    "tomwey": "tomwey@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AWTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AWTools/Classes/**/*"
+}
