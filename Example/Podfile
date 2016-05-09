@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'AWTools_Example', :exclusive => true do
+  pod 'AWTools', :path => '../'
+end
+
+target 'AWTools_Tests', :exclusive => true do
+  pod 'AWTools', :path => '../'
+
+  pod 'Kiwi'
+  pod 'FBSnapshotTestCase'
+end
